@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://asaanflows.com">
-    <img src="https://asaanflows.com/assets/asaanflows_web/images/logo-full.png" alt="Asaanflows" width="320">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asaanflows/.github/main/assets/logo-dark.png">
+      <img src="https://raw.githubusercontent.com/Asaanflows/.github/main/assets/logo-light.png" alt="Asaanflows" width="320">
+    </picture>
   </a>
 </p>
 
